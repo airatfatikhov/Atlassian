@@ -1,6 +1,6 @@
 ##НАстройка интеграции с OpenTelemetry Signoz
 
-#Необходимо открыть файл setenv.sh и вставить следующие настройки: <br>
+#Необходимо открыть файл setenv.sh и вставить следующие настройки: </br>
 
 ``
 OTEL_AGENT_PATH="/etc/opentelemetry/opentelemetry-javaagent.jar"
